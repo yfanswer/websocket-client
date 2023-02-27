@@ -9,7 +9,7 @@ The example consists of 3 modules:
 
 You can run it with `cargo run`:
 ```
-cargo run --package websocket
+cargo run
 ```
 
 [`main`]: src/main.rs
